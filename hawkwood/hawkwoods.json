@@ -1,0 +1,2085 @@
+{
+  "_via_settings": {
+    "ui": {
+      "annotation_editor_height": 25,
+      "annotation_editor_fontsize": 0.8,
+      "leftsidebar_width": 18,
+      "image_grid": {
+        "img_height": 80,
+        "rshape_fill": "none",
+        "rshape_fill_opacity": 0.3,
+        "rshape_stroke": "yellow",
+        "rshape_stroke_width": 2,
+        "show_region_shape": true,
+        "show_image_policy": "all"
+      },
+      "image": {
+        "region_label": "__via_region_id__",
+        "region_color": "__via_default_region_color__",
+        "region_label_font": "10px Sans",
+        "on_image_annotation_editor_placement": "NEAR_REGION"
+      }
+    },
+    "core": {
+      "buffer_size": 18,
+      "filepath": {},
+      "default_filepath": ""
+    },
+    "project": {
+      "name": "hawkwoods"
+    }
+  },
+  "_via_img_metadata": {
+    "IMG_0661.JPG2977329": {
+      "filename": "IMG_0661.JPG",
+      "size": 2977329,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1076,
+            "cy": 1100,
+            "r": 117
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 835,
+            "cy": 1195,
+            "r": 132
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 675,
+            "cy": 1440,
+            "r": 141
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 962,
+            "cy": 1441,
+            "r": 125
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1161,
+            "cy": 1313,
+            "r": 89
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1427,
+            "cy": 1225,
+            "r": 153
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1321,
+            "cy": 914,
+            "r": 79
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1604,
+            "cy": 914,
+            "r": 125
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1896,
+            "cy": 940,
+            "r": 149
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1738,
+            "cy": 1186,
+            "r": 147
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2005,
+            "cy": 1268,
+            "r": 117
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2184,
+            "cy": 1069,
+            "r": 113
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2644,
+            "cy": 833,
+            "r": 84
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2493,
+            "cy": 1147,
+            "r": 130
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2745,
+            "cy": 1085,
+            "r": 110
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2981,
+            "cy": 1172,
+            "r": 142
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 3199,
+            "cy": 976,
+            "r": 93
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1306,
+            "cy": 1486,
+            "r": 101
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1584,
+            "cy": 1461,
+            "r": 142
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2115,
+            "cy": 1610,
+            "r": 78
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2395,
+            "cy": 1545,
+            "r": 90
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2524,
+            "cy": 1374,
+            "r": 103
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2765,
+            "cy": 1324,
+            "r": 110
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2672,
+            "cy": 1551,
+            "r": 123
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2866,
+            "cy": 1772,
+            "r": 129
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 3113,
+            "cy": 1711,
+            "r": 118
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 3208,
+            "cy": 1253,
+            "r": 111
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1040,
+            "cy": 1750,
+            "r": 168
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1388,
+            "cy": 1730,
+            "r": 149
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1684,
+            "cy": 1733,
+            "r": 130
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1954,
+            "cy": 1758,
+            "r": 85
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2126,
+            "cy": 1806,
+            "r": 74
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2297,
+            "cy": 1742,
+            "r": 99
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2221,
+            "cy": 1388,
+            "r": 138
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              620,
+              684,
+              757,
+              799,
+              836,
+              850,
+              830,
+              836,
+              850,
+              864,
+              850,
+              819,
+              763,
+              709,
+              667,
+              631,
+              589,
+              572,
+              600,
+              611,
+              623
+            ],
+            "all_points_y": [
+              1654,
+              1649,
+              1635,
+              1649,
+              1691,
+              1725,
+              1772,
+              1789,
+              1809,
+              1842,
+              1870,
+              1884,
+              1890,
+              1890,
+              1859,
+              1840,
+              1789,
+              1733,
+              1719,
+              1674,
+              1657
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              2613,
+              2653,
+              2653,
+              2608,
+              2546,
+              2501,
+              2456,
+              2448,
+              2459,
+              2490,
+              2538,
+              2602,
+              2641,
+              2644,
+              2616,
+              2627
+            ],
+            "all_points_y": [
+              1781,
+              1758,
+              1708,
+              1674,
+              1674,
+              1708,
+              1750,
+              1783,
+              1823,
+              1854,
+              1873,
+              1887,
+              1859,
+              1811,
+              1778,
+              1772
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 3003,
+            "cy": 1469,
+            "rx": 140,
+            "ry": 157
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 3233,
+            "cy": 1472,
+            "rx": 79,
+            "ry": 107
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 1892,
+            "cy": 1514,
+            "rx": 137,
+            "ry": 107
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "IMG_0668.JPG2871492": {
+      "filename": "IMG_0668.JPG",
+      "size": 2871492,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 244,
+            "cy": 907,
+            "r": 161
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1068,
+            "cy": 766,
+            "r": 92
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1817,
+            "cy": 912,
+            "r": 106
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2302,
+            "cy": 744,
+            "r": 163
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2849,
+            "cy": 763,
+            "r": 103
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 3124,
+            "cy": 782,
+            "r": 117
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2759,
+            "cy": 1063,
+            "r": 123
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2997,
+            "cy": 1211,
+            "r": 119
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 3205,
+            "cy": 1091,
+            "r": 99
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2723,
+            "cy": 1337,
+            "r": 123
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 3020,
+            "cy": 1514,
+            "r": 153
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2534,
+            "cy": 1783,
+            "r": 104
+          },
+          "region_attributes": {
+            "name": ""
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2544,
+            "cy": 1203,
+            "r": 102
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2344,
+            "cy": 1035,
+            "r": 137
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2075,
+            "cy": 993,
+            "r": 104
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1901,
+            "cy": 1231,
+            "r": 125
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2176,
+            "cy": 1243,
+            "r": 108
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2010,
+            "cy": 1467,
+            "r": 155
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1834,
+            "cy": 1744,
+            "r": 135
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1320,
+            "cy": 1309,
+            "r": 121
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1601,
+            "cy": 1147,
+            "r": 166
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1262,
+            "cy": 1048,
+            "r": 139
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 925,
+            "cy": 1127,
+            "r": 155
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 617,
+            "cy": 1046,
+            "r": 128
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 392,
+            "cy": 1264,
+            "r": 134
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 112,
+            "cy": 1184,
+            "r": 147
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 19,
+            "cy": 1492,
+            "r": 145
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 401,
+            "cy": 1542,
+            "r": 138
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 650,
+            "cy": 1635,
+            "r": 77
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1057,
+            "cy": 1374,
+            "r": 113
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 768,
+            "cy": 1400,
+            "r": 145
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 959,
+            "cy": 1561,
+            "r": 107
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1248,
+            "cy": 1576,
+            "r": 137
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1152,
+            "cy": 1819,
+            "r": 121
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 847,
+            "cy": 1783,
+            "r": 110
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 647,
+            "cy": 1862,
+            "r": 79
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 443,
+            "cy": 1797,
+            "r": 88
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 129,
+            "cy": 1786,
+            "r": 138
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1523,
+            "cy": 1814,
+            "r": 148
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 2241,
+            "cy": 1806,
+            "rx": 182,
+            "ry": 132
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 2804,
+            "cy": 1739,
+            "rx": 168,
+            "ry": 137
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              3026,
+              3028,
+              3090,
+              3171,
+              3214,
+              3261,
+              3261,
+              3222,
+              3132,
+              3068,
+              3023
+            ],
+            "all_points_y": [
+              1778,
+              1691,
+              1643,
+              1562,
+              1551,
+              1582,
+              1828,
+              1854,
+              1859,
+              1837,
+              1775
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              2336,
+              2414,
+              2496,
+              2569,
+              2613,
+              2633,
+              2622,
+              2504,
+              2339,
+              2269,
+              2232,
+              2252,
+              2336
+            ],
+            "all_points_y": [
+              1273,
+              1265,
+              1298,
+              1352,
+              1410,
+              1511,
+              1607,
+              1635,
+              1632,
+              1548,
+              1424,
+              1340,
+              1270
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1675,
+            "cy": 1473,
+            "r": 176
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "IMG_0914.JPG1957950": {
+      "filename": "IMG_0914.JPG",
+      "size": 1957950,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 505,
+            "cy": 1568,
+            "r": 76
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 225,
+            "cy": 1728,
+            "r": 71
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 383,
+            "cy": 1725,
+            "r": 82
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 588,
+            "cy": 1700,
+            "r": 73
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 650,
+            "cy": 1603,
+            "r": 52
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 743,
+            "cy": 1579,
+            "r": 44
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 825,
+            "cy": 1455,
+            "r": 69
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 960,
+            "cy": 1457,
+            "r": 47
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1027,
+            "cy": 1295,
+            "r": 151
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1237,
+            "cy": 1426,
+            "r": 61
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1255,
+            "cy": 1173,
+            "r": 55
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1388,
+            "cy": 1124,
+            "r": 54
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1359,
+            "cy": 1248,
+            "r": 64
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1508,
+            "cy": 1011,
+            "r": 91
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1701,
+            "cy": 1111,
+            "r": 61
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1787,
+            "cy": 994,
+            "r": 59
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2080,
+            "cy": 1080,
+            "r": 68
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2259,
+            "cy": 1104,
+            "r": 63
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2365,
+            "cy": 987,
+            "r": 50
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2372,
+            "cy": 840,
+            "r": 62
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2437,
+            "cy": 736,
+            "r": 58
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2479,
+            "cy": 1022,
+            "r": 61
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2525,
+            "cy": 880,
+            "r": 84
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2238,
+            "cy": 1244,
+            "r": 64
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1965,
+            "cy": 1149,
+            "r": 64
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1851,
+            "cy": 1095,
+            "r": 47
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1812,
+            "cy": 1238,
+            "r": 95
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1896,
+            "cy": 1352,
+            "r": 47
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1976,
+            "cy": 1264,
+            "r": 75
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 963,
+            "cy": 1612,
+            "r": 97
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1105,
+            "cy": 1497,
+            "r": 83
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1315,
+            "cy": 1574,
+            "r": 81
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1171,
+            "cy": 1672,
+            "r": 71
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1468,
+            "cy": 1545,
+            "r": 63
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1404,
+            "cy": 1394,
+            "r": 99
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1557,
+            "cy": 1215,
+            "r": 91
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1876,
+            "cy": 1499,
+            "r": 96
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2020,
+            "cy": 1541,
+            "r": 85
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2134,
+            "cy": 1369,
+            "r": 89
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2115,
+            "cy": 1189,
+            "r": 68
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2306,
+            "cy": 1550,
+            "r": 67
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2282,
+            "cy": 1370,
+            "r": 60
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2395,
+            "cy": 1421,
+            "r": 61
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2521,
+            "cy": 1439,
+            "r": 64
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2395,
+            "cy": 1663,
+            "r": 61
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2264,
+            "cy": 1670,
+            "r": 43
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2144,
+            "cy": 1637,
+            "r": 86
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2178,
+            "cy": 1499,
+            "r": 45
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1459,
+            "cy": 1718,
+            "r": 75
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              690,
+              712,
+              763,
+              818,
+              858,
+              874,
+              885,
+              869,
+              794,
+              707,
+              692,
+              687,
+              694
+            ],
+            "all_points_y": [
+              1672,
+              1632,
+              1610,
+              1596,
+              1605,
+              1652,
+              1692,
+              1734,
+              1738,
+              1738,
+              1716,
+              1687,
+              1674
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              1264,
+              1304,
+              1350,
+              1372,
+              1372,
+              1357,
+              1262,
+              1242,
+              1244,
+              1264
+            ],
+            "all_points_y": [
+              1685,
+              1674,
+              1683,
+              1705,
+              1732,
+              1756,
+              1761,
+              1743,
+              1710,
+              1690
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              1752,
+              1785,
+              1816,
+              1860,
+              1894,
+              1909,
+              1911,
+              1894,
+              1858,
+              1807,
+              1780,
+              1754
+            ],
+            "all_points_y": [
+              1694,
+              1625,
+              1605,
+              1605,
+              1621,
+              1647,
+              1690,
+              1734,
+              1749,
+              1752,
+              1763,
+              1698
+            ]
+          },
+          "region_attributes": {
+            "name": ""
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              1973,
+              2024,
+              2042,
+              2042,
+              2016,
+              1965,
+              1945,
+              1925,
+              1918,
+              1931,
+              1942,
+              1978
+            ],
+            "all_points_y": [
+              1670,
+              1678,
+              1705,
+              1736,
+              1741,
+              1747,
+              1754,
+              1754,
+              1725,
+              1692,
+              1676,
+              1672
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              2477,
+              2488,
+              2512,
+              2537,
+              2568,
+              2579,
+              2583,
+              2576,
+              2552,
+              2534,
+              2483,
+              2477
+            ],
+            "all_points_y": [
+              1710,
+              1676,
+              1652,
+              1643,
+              1647,
+              1667,
+              1692,
+              1701,
+              1707,
+              1696,
+              1698,
+              1707
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2510,
+            "cy": 1555,
+            "r": 73
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              1563,
+              1667,
+              1727,
+              1772,
+              1794,
+              1800,
+              1780,
+              1756,
+              1752,
+              1725,
+              1692,
+              1627,
+              1548,
+              1510,
+              1517,
+              1574
+            ],
+            "all_points_y": [
+              1563,
+              1501,
+              1503,
+              1517,
+              1561,
+              1596,
+              1627,
+              1656,
+              1701,
+              1747,
+              1769,
+              1752,
+              1687,
+              1627,
+              1594,
+              1557
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              2528,
+              2554,
+              2570,
+              2585,
+              2588,
+              2581,
+              2559,
+              2534,
+              2499,
+              2483,
+              2481,
+              2528,
+              2532
+            ],
+            "all_points_y": [
+              1257,
+              1255,
+              1277,
+              1288,
+              1308,
+              1344,
+              1364,
+              1370,
+              1368,
+              1346,
+              1319,
+              1259,
+              1259
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 1636,
+            "cy": 1399,
+            "rx": 111,
+            "ry": 82
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              2071,
+              2106,
+              2160,
+              2226,
+              2277,
+              2304,
+              2299,
+              2308,
+              2302,
+              2277,
+              2264,
+              2233,
+              2204,
+              2131,
+              2075,
+              2035,
+              2042,
+              2029,
+              2075
+            ],
+            "all_points_y": [
+              803,
+              745,
+              723,
+              729,
+              752,
+              787,
+              847,
+              876,
+              920,
+              951,
+              987,
+              1009,
+              1038,
+              1024,
+              984,
+              931,
+              914,
+              885,
+              798
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              2348,
+              2426,
+              2481,
+              2503,
+              2512,
+              2486,
+              2448,
+              2401,
+              2348,
+              2317,
+              2308,
+              2306,
+              2353
+            ],
+            "all_points_y": [
+              1129,
+              1089,
+              1095,
+              1133,
+              1177,
+              1233,
+              1257,
+              1273,
+              1266,
+              1237,
+              1193,
+              1160,
+              1124
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              2517,
+              2552,
+              2588,
+              2590,
+              2590,
+              2572,
+              2539,
+              2510,
+              2503,
+              2514,
+              2506,
+              2530
+            ],
+            "all_points_y": [
+              1109,
+              1098,
+              1098,
+              1144,
+              1195,
+              1213,
+              1220,
+              1215,
+              1204,
+              1175,
+              1129,
+              1102
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polyline",
+            "all_points_x": [
+              2528,
+              2557,
+              2585,
+              2590,
+              2579,
+              2541,
+              2532,
+              2543,
+              2523
+            ],
+            "all_points_y": [
+              1073,
+              1086,
+              1075,
+              958,
+              947,
+              962,
+              976,
+              1020,
+              1073
+            ]
+          },
+          "region_attributes": {
+            "name": "Log"
+          }
+        }
+      ],
+      "file_attributes": {}
+    }
+  },
+  "_via_attributes": {
+    "region": {
+      "name": {
+        "type": "text",
+        "description": "name of the object",
+        "default_value": ""
+      }
+    },
+    "file": {}
+  }
+}
