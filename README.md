@@ -1,2 +1,5 @@
 # Log-Counter
-A solution which uses neural network to count logs in a heap
+Подсчёт и разметка брёвен в штабеле на изображении
+## Что внутри
+Нейросеть Mask R-CNN, натренированная на изображениях из набора HAWKwood
+
